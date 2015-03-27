@@ -1,6 +1,6 @@
 # Hello World Java 
 
-Anastasia is editing this file to test cicd java maven support
+Anastasia is editing this file again to test cicd java maven support
 
 This is a very simple Servlet-based Java webapp. 
 
