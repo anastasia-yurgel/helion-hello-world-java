@@ -1,7 +1,5 @@
 # Hello World Java 
 
-Anastasia is editing this file again to test cicd java maven support
-
 This is a very simple Servlet-based Java webapp. 
 
 New users should check out the resources available at [HP Helion Docs](http://docs.hpcloud.com/helion/devplatform/workbook/helloworld/java/). 
