@@ -2,7 +2,7 @@
 
 test test
 
-testing 2202
+testing 2202, second deployment
 
 This is a very simple Servlet-based Java webapp. 
 
