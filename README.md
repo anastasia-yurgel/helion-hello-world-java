@@ -1,8 +1,6 @@
 # Hello World Java 
 
-test test testing
-
-testing 2202, second deployment
+testing 2120, first deployment
 
 This is a very simple Servlet-based Java webapp. 
 
