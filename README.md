@@ -1,7 +1,5 @@
 # Hello World Java
 
-#testing 2181, more with latest build
-
 This is a very simple Servlet-based Java webapp. 
 
 New users should check out the resources available at [HP Helion Docs](http://docs.hpcloud.com/helion/devplatform/workbook/helloworld/java/). 
